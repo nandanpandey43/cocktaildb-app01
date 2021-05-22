@@ -9,7 +9,7 @@ function Navbar() {
 
       <div className='nav-center'>
         <Link to='/'>
-          <h1> CocktailDB App </h1>
+          <h1> CocktailDB </h1>
         </Link>
         <ul className='nav-links'>
           <li>
